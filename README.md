@@ -26,10 +26,3 @@ The **Music Store App** is a modern, responsive web application that allows user
 
 ---
 
-## 🚀 How to Run the App
-
-1. **Clone or download** the repository:
-
-```bash
-git clone https://github.com/your-username/music-store-app.git
-
