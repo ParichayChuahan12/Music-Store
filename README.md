@@ -17,8 +17,6 @@ The **Music Store App** is a modern, responsive web application that allows user
 
 
 
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure of the app  
