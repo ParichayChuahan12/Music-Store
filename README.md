@@ -16,4 +16,8 @@ The **Music Store App** is a modern, responsive web application that allows user
 ---
 
 ## 📂 Project Structure
-
+music-store-app/
+│── index.html # Main HTML structure
+│── styles.css # Styling and responsive design
+│── script.js # API calls + dynamic card creation
+└── README.md # Project documentation
