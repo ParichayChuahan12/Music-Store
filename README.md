@@ -22,6 +22,8 @@ The **Music Store App** is a modern, responsive web application that allows user
 - **HTML5** – Structure of the app  
 - **CSS3** – Styling and responsiveness  
 - **JavaScript (ES6)** – Logic, API integration, dynamic DOM updates  
-- **iTunes Search API** – Provides song and audio preview data  
+- **iTunes Search API** – Provides song and audio preview data
+
+---
 
 
