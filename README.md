@@ -15,7 +15,7 @@ The **Music Store App** is a modern, responsive web application that allows user
 
 ---
 
-## 📂 Project Structure
+
 
 ---
 
