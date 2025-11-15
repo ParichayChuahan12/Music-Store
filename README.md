@@ -16,8 +16,22 @@ The **Music Store App** is a modern, responsive web application that allows user
 ---
 
 ## 📂 Project Structure
-music-store-app/
-│── index.html # Main HTML structure
-│── styles.css # Styling and responsive design
-│── script.js # API calls + dynamic card creation
-└── README.md # Project documentation
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure of the app  
+- **CSS3** – Styling and responsiveness  
+- **JavaScript (ES6)** – Logic, API integration, dynamic DOM updates  
+- **iTunes Search API** – Provides song and audio preview data  
+
+---
+
+## 🚀 How to Run the App
+
+1. **Clone or download** the repository:
+
+```bash
+git clone https://github.com/your-username/music-store-app.git
+
