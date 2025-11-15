@@ -10,15 +10,7 @@
     const singerName = document.querySelector('#searchTxt').value;
     loadAllSongs(singerName);
  }
- /*
-  <div class="cards">
-                    <img class="art" src="SOME URL" alt="FAIL TO SHOW IMAGE">
-                    <div class="title"></div>
-                    <div class="artist"></div>
-                    <audio src="" controls></audio>
-                </div>
- */
-// Here i Create a Dynamic Card
+
  function createCard(songObject){
     const songDiv = document.querySelector('.songs');
     const cardDiv = document.createElement('div');
@@ -55,17 +47,6 @@
             catch(err){
                 console.log('Fail to Load Songs ', err);
             }
-            // const promise = fetch(URL); // async 
-            // promise.then(function(response){
-            //     const pr = response.json();
-            //     pr.then(function(data){
-            //         console.log('Data of Songs is ', data);
-            //     }).catch(function(err){
-            //         console.log('Invalid JSON ', err);
-            //     })
-            //     //console.log('Itunes api call Success');
-            // }).catch(function(err){
-            //     console.log('Itunes APi call Fails Error is ', err);
-            // })
+            
         }
        
